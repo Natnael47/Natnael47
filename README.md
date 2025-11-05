@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Natnael</h1>
-<h3 align="center">🚀 Full-Stack Developer | Lifelong Learner | Based in Ethiopia</h3>
+<h3 align="center"> Full-Stack Developer | Lifelong Learner | Based in Ethiopia</h3>
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 - Swift  
-- ThreeJS
+- Three.js
 
 ---
 
