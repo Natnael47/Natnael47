@@ -4,8 +4,7 @@
 ---
 
 ### Currently Learning
-- Swift  
-- Three.js
+- Swift 
 
 ---
 
