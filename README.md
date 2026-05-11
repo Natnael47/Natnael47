@@ -1,20 +1,42 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&text=Natnael&fontSize=80&fontAlignY=50&fontColor=fff&animation=twinkling&height=180" width="100%"/>
-</p>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=00D2FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Building+Digital+Experiences;Based+in+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing SVG" />
-</h3>
-
-<p align="center">
-  I craft scalable web apps, modern mobile experiences, and clean digital solutions that actually matter. 
-  <br/>
-  <strong>Code is my canvas, and you're looking at my gallery.</strong>
-</p>
+<!-- HERO SECTION START -->
+<div align="center">
+  <a href="https://github.com/Natnael47">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,14,22&height=200&text=Natnael%20%F0%9F%91%A8%F0%9F%92%BB&fontSize=45&fontColor=fff&animation=fadeIn" width="100%" alt="Header"/>
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Natnael47&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=100&color=00D2FF&center=true&vCenter=true&width=500&height=40&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Based+in+Ethiopia+🇪🇹" alt="Typing SVG" />
 </p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Code-React%20%7C%20Next%20%7C%20Flutter-0D1117?style=for-the-badge&logo=react&color=00D2FF" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Passion-UI%2FUX%20%26%20Mobile-0D1117?style=for-the-badge&logo=figma&color=FFB703" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Location-Ethiopia%20%E1%8A%A8%E1%8A%94%E1%8A%AA%E1%89%B5%E1%8B%AB-0D1117?style=for-the-badge&logo=googlemaps&color=0e75b6" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <p>
+    🚀 <strong>Code is my canvas.</strong> I build scalable web apps, modern mobile experiences,<br/> 
+    and clean digital solutions that actually matter.
+    <br/>
+    <br/>
+    <a href="https://github.com/Natnael47">
+      <img src="https://img.shields.io/badge/Explore%20My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+</div>
+<!-- HERO SECTION END -->
 
 ---
 
@@ -42,7 +64,7 @@
 
 ---
 
-<!-- 🛠️ TECH STACK SECTION (UPDATED TO OLD STYLE) -->
+<!-- 🛠️ TECH STACK SECTION -->
 <h2 align="center">⚙️ Tech Stack & Tools</h2>
 
 <div align="center">
@@ -81,7 +103,7 @@
 
 ---
 
-<!-- 🔥 GITHUB STREAK (KEPT BUT CLEANED) -->
+<!-- 🔥 GITHUB STREAK -->
 <h2 align="center">🔥 Contribution Streak</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natnael47&theme=react&hide_border=true&background=0D1117&stroke=FFFFFF&ring=00D2FF&fire=FFB703&currStreakNum=FFFFFF" alt="GitHub Streak" />
@@ -101,7 +123,7 @@
 
 ---
 
-<!-- 🌐 CONNECT WITH ME (COOL ICONS) -->
+<!-- 🌐 CONNECT WITH ME -->
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
