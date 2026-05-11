@@ -1,6 +1,4 @@
-<h1 align="center">
-  Hi 👋, I'm Natnael
-</h1>
+<h1 align="center">Hi 👋, I'm Natnael</h1>
 
 <h3 align="center">
   Full-Stack Developer • UI/UX Enthusiast • Based in Ethiopia 🇪🇹
@@ -8,20 +6,30 @@
 
 <p align="center">
   Passionate about building scalable web applications, modern mobile apps,
-  and clean user experiences.
+  and clean digital experiences.
 </p>
 
 ---
 
+<div align="center">
+
 ## 🚀 Currently Learning
 
-- Swift & iOS Development
-- Advanced System Design
-- 3D Web Experiences with Three.js
+</div>
+
+<p align="center">
+  🌱 Swift & iOS Development <br/>
+  ⚡ Advanced System Design <br/>
+  🎨 3D Web Experiences with Three.js
+</p>
 
 ---
 
+<div align="center">
+
 ## 🌐 Connect With Me
+
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
@@ -33,7 +41,7 @@
   </a>
 
   <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 
   <a href="https://natnael.kemerbyte.com" target="_blank">
@@ -43,36 +51,40 @@
 
 ---
 
+<div align="center">
+
 # 🛠️ Tech Stack
+
+</div>
 
 <div align="center">
 
-### Frontend
+### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" />
 </p>
 
-### Backend
+### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,firebase" />
 </p>
 
-### Mobile Development
+### 📱 Mobile Development
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio,java,swift" />
 </p>
 
-### Databases
+### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### DevOps & Cloud
+### ☁️ DevOps & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,aws" />
 </p>
 
-### Design Tools
+### 🎨 Design Tools
 <p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop,blender" />
 </p>
@@ -81,7 +93,25 @@
 
 ---
 
+<div align="center">
+
+# 📊 GitHub Stats
+
+</div>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Natnael47&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natnael47&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<div align="center">
+
 # 🔥 GitHub Streak
+
+</div>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Natnael47&theme=tokyonight&hide_border=true"/>
@@ -89,18 +119,26 @@
 
 ---
 
+<div align="center">
+
+## ✨ Developer Quote
+
+</div>
+
 <p align="center">
-  <i style="font-size:16px;">
+  <i>
     “Code is not just syntax — it’s how ideas become real experiences.”
   </i>
 </p>
 
 <p align="center">
-  <sub>— Natnael</sub>
+  <a href="https://github.com/Natnael47">
+    <img src="https://img.shields.io/badge/—%20Natnael-0f172a?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer"/>
 </p>
