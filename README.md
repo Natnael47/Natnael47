@@ -89,12 +89,6 @@
 
 ---
 
-## 💡 Quote
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:1e293b&height=80&section=header&text=Quote&fontSize=30&fontColor=38bdf8" />
-</p>
-
 <p align="center">
   <i style="font-size:16px;">
     “Code is not just syntax — it’s how ideas become real experiences.”
