@@ -81,16 +81,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Natnael47&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natnael47&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -99,14 +89,24 @@
 
 ---
 
-# 💡 Quote
+## 💡 Quote
 
 <p align="center">
-  <i>"Code is not just syntax — it's building experiences."</i>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:1e293b&height=80&section=header&text=Quote&fontSize=30&fontColor=38bdf8" />
+</p>
+
+<p align="center">
+  <i style="font-size:16px;">
+    “Code is not just syntax — it’s how ideas become real experiences.”
+  </i>
+</p>
+
+<p align="center">
+  <sub>— Natnael</sub>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ From <a href="https://natnael.kemerbyte.com">Natnael</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=80&section=footer"/>
 </p>
