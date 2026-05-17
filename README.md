@@ -89,18 +89,6 @@
 
 ---
 
-<!-- 💬 DEVELOPER QUOTE -->
-<h2 align="center">✨ Word on the Code</h2>
-
-<p align="center">
-  <blockquote align="center">
-    <i>“Code is not just syntax — it's how ideas become real experiences.”</i>
-    <br/>— <strong>Natnael</strong>
-  </blockquote>
-</p>
-
----
-
 <!-- 🌐 CONNECT WITH ME (COOL ICONS) -->
 <h2 align="center">🌐 Let's Connect</h2>
 
