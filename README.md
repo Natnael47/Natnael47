@@ -114,11 +114,14 @@
         </a>
       </td>
       <td align="center" width="120">
-        <a href="https://natnael.kemerbyte.com" target="_blank">
-          <img src="[https://skillicons.dev/icons?i=vercel](https://github.com/Natnael47/portfolio/blob/main/public/N.png)" width="50"/><br/>
-          <strong>Portfolio</strong>
-        </a>
-      </td>
+  <a href="https://natnael.kemerbyte.com" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/Natnael47/afrolink-news-api/main/public/N.png" 
+      width="50"
+    /><br/>
+    <strong>Portfolio</strong>
+  </a>
+</td>
     </tr>
   </table>
 </p>
