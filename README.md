@@ -31,9 +31,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natnael47&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=FFFFFF"/>
 </p>
 
-<!-- GitHub Streak - WORKING VERSION -->
+<!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natnael47&theme=react&hide_border=true&background=0D1117&stroke=00D2FF&ring=00D2FF&fire=FFB703&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D2FF&sideLabels=00D2FF&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Natnael47&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00D2FF&line=00D2FF&point=FFFFFF&custom_title=GitHub%20Contribution%20Graph" />
 </p>
 
 ---
