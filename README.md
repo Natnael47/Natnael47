@@ -31,9 +31,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natnael47&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=FFFFFF"/>
 </p>
 
-<!-- GitHub Streak - FIXED VERSION -->
+<!-- GitHub Streak - WORKING VERSION -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Natnael47&theme=react&hide_border=true&background=0D1117&stroke=00D2FF&ring=00D2FF&fire=FFB703&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D2FF&sideLabels=00D2FF&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natnael47&theme=react&hide_border=true&background=0D1117&stroke=00D2FF&ring=00D2FF&fire=FFB703&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D2FF&sideLabels=00D2FF&dates=8B949E" alt="GitHub Streak" />
 </p>
 
 ---
