@@ -125,7 +125,7 @@
     <img src="https://skillicons.dev/icons?i=twitter" width="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://natnael.kemerbyte.com" target="_blank">
+  <a href="https://natnael.adilcorporate.com" target="_blank">
     <img src="https://raw.githubusercontent.com/Natnael47/afrolink-news-api/main/public/N.png" width="50"/>
   </a>
 </p>
